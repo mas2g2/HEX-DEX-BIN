@@ -1,0 +1,9 @@
+C:\Users\miles\Desktop\HEX-DEX-BIN\HEX-DEX-BIN\bin\Debug\HEX-DEX-BIN.exe.config
+C:\Users\miles\Desktop\HEX-DEX-BIN\HEX-DEX-BIN\bin\Debug\HEX-DEX-BIN.exe
+C:\Users\miles\Desktop\HEX-DEX-BIN\HEX-DEX-BIN\bin\Debug\HEX-DEX-BIN.pdb
+C:\Users\miles\Desktop\HEX-DEX-BIN\HEX-DEX-BIN\obj\Debug\HEX_DEX_BIN.Form1.resources
+C:\Users\miles\Desktop\HEX-DEX-BIN\HEX-DEX-BIN\obj\Debug\HEX_DEX_BIN.Properties.Resources.resources
+C:\Users\miles\Desktop\HEX-DEX-BIN\HEX-DEX-BIN\obj\Debug\HEX-DEX-BIN.csproj.GenerateResource.cache
+C:\Users\miles\Desktop\HEX-DEX-BIN\HEX-DEX-BIN\obj\Debug\HEX-DEX-BIN.csproj.CoreCompileInputs.cache
+C:\Users\miles\Desktop\HEX-DEX-BIN\HEX-DEX-BIN\obj\Debug\HEX-DEX-BIN.exe
+C:\Users\miles\Desktop\HEX-DEX-BIN\HEX-DEX-BIN\obj\Debug\HEX-DEX-BIN.pdb
